@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohdWaqi&label=Profile%20views&color=0e75b6&style=flat" alt="mohdwaqi" /> </p>
 <img align="right" width="400" style=";" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnd5OXRzZnN2a3QwbXo5NTA3YjZ3d2M3YXh1aWZ1dmZodGc5M243cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"/>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **AI tools**
 
-- 💬 Ask me about **Python, HTML, CSS, Javascript, Node.js, Jquery, Express.js, APIs, ejs, flask, pandas, webscraping from selenium & Beautiful soup and much more..**
+- 💬 Ask me about **Python, HTML, CSS, Javascript, Node.js, Jquery, Express.js, APIs, ejs, React.js, pandas, webscraping from selenium & Beautiful soup and much more..**
 
 - 📫 How to reach me **mohdwaqipervez@gmail.com**
 
