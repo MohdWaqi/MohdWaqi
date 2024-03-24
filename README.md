@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI tools**
 
-- 💬 Ask me about **Python, HTML, CSS, Javascript, Node.js, Jquery, Express.js, APIs, ejs, React.js, pandas, webscraping from selenium & Beautiful soup and much more..**
+- 💬 Ask me about **HTML, CSS, Javascript, Node.js, MongoDB, Express.js, APIs, ejs, React.js, pandas, webscraping from selenium & Beautiful soup and much more..**
 
 - 📫 How to reach me **mohdwaqipervez@gmail.com**
 
