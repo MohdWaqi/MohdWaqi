@@ -42,7 +42,7 @@ Hi, I'm Waqi — a **Full Stack Developer** with a strong foundation in the **ME
 
 I’m open to working with teams, organizations, or founders who value high-quality engineering and long-term impact.
 
-- 📬 **Email:** waqipervez007@gmail.com  
+- 📬 **Email:** mohdwaqipervez@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/waqipervez](www.linkedin.com/in/mohd-waqi-pervez-52a432291)
 
 ---
