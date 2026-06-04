@@ -9,7 +9,7 @@ Hi, I'm Waqi — a **Full Stack Developer** with a strong foundation in the **ME
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 - **Frontend:** Next.js, React.js, Tailwind CSS, Redux Toolkit, Framer Motion
 - **Backend:** Node.js, Express.js, REST APIs, JWT, Bcrypt
-- **Databases:** MongoDB, Mongoose, Firebase Realtime DB
+- **Databases:** MongoDB, Mongoose, Firebase Realtime DB, Mysql
 - **DevOps & Hosting:** GitHub Actions, CI/CD, Vercel, Netlify, Hostinger (Shared & VPS)
 - **Tools:** Git, GitHub, VS Code, Postman, Figma, Notion
 
